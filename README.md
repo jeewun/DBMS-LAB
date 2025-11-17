@@ -1,1 +1,1 @@
-ABOVE FILE HAS THE CONTENT OF DATABASE MANAGEMENT SYSTEM EXCERCISE
+above file has the content of database management system exercise
